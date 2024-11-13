@@ -27,11 +27,11 @@
 ![6_Integrating Data_ Combining Sensor Data with Other Urban Data Sources](https://github.com/user-attachments/assets/502d616a-aa59-49d3-a949-687b200aebad)
 
 
-## 7. Sixth Slide
+## 7. Seventh Slide
 
 ![7_Benefits for Cities_ Reduced Congestion, Increased Revenue, Better Planning](https://github.com/user-attachments/assets/3b5b839f-dd3c-4c02-8a65-65932c7123e5)
 
-## 8. Sixth Slide
+## 8. Eighth Slide
 
 ![8_The Future of Smart Parking_ Autonomous Vehicles and Predictive Analytics](https://github.com/user-attachments/assets/f43b21d8-fa5b-425f-84a7-2bdd5d387060)
 
